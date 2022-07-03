@@ -2,7 +2,7 @@
 
 This project was bootstrapped with [Create React Login](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+## Available Scripts     
 
 In the project directory, you can run:
 
